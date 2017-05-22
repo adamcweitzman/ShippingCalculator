@@ -1,0 +1,8 @@
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\netcoreapp1.1\ShippingCalculator.deps.json
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\netcoreapp1.1\ShippingCalculator.runtimeconfig.json
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\netcoreapp1.1\ShippingCalculator.runtimeconfig.dev.json
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\netcoreapp1.1\ShippingCalculator.dll
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\netcoreapp1.1\ShippingCalculator.pdb
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\netcoreapp1.1\ShippingCalculator.AssemblyInfo.cs
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\netcoreapp1.1\ShippingCalculator.dll
+c:\users\adam\documents\visual studio 2017\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\netcoreapp1.1\ShippingCalculator.pdb

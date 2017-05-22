@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<br></br>
+
+<h2>DHL Express Cost of Shipping Estimator From China</h2>
+
+<h3>Is Weight Per Case In Grams or Kilograms?</h3>
+
+<div class="radio">
+    <label><input type="radio" name="optradio" value="g">g</label>
+</div>
+<div class="radio">
+    <label><input type="radio" name="optradio" value="kg">kg</label>
+</div>
+
+
+<form>
+
+    
+    <br></br>
+    <div class="form-group">
+        <label id="labelMass">Shipping Mass Per Case (g)</label>
+        <input class="form-control" id="shippingMassPerCase">
+    </div>
+    <div class="form-group">
+        <label>Number Of Cases</label>
+        <input class="form-control" id="numberCases">
+    </div>
+    <button id="calcBtn" class="btn btn-default">Calculate</button>
+    <h2 id="sum"></h2>    
+</form>
+
