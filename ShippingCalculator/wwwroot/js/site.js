@@ -6,7 +6,6 @@ $(function () {
     console.log("I'm here");
 
     $(".radio").click(function () {
-        console.log("i hit the readio btn");
         var selVal = $('input[name=optradio]:checked').val(); 
         $('#labelMass').html('Shipping Mass Per Case (' + selVal + ')');
     })
@@ -14,7 +13,6 @@ $(function () {
 
     $("#calcBtn").click(function (e) {
         e.preventDefault();
-        console.log("i hit the calc button");
         var mass = $("#shippingMassPerCase").val();
         var cases = $('#numberCases').val();
 
@@ -25,11 +23,8 @@ $(function () {
         else {
             var sum = (mass * 5) * cases
         }
-        
 
-        console.log(sum);
-
-        $('#sum').html(sum);
+        $('#sum').html('$' + sum);
         
     })
 
